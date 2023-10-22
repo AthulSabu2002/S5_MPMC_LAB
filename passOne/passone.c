@@ -68,7 +68,6 @@ void main(){
     fclose(optab);
     fclose(intermediate);
     fclose(symtab);
-    printf("success....");
+    printf("success....\n");
+    printf("The length of program is : %d",locctr-start);
 }
-
-
