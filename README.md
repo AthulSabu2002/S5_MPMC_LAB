@@ -1,1 +1,1 @@
-# S5_MPMC_LAB
+# S5_SSMP_LAB
